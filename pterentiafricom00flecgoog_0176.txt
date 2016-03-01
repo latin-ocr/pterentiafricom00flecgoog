@@ -1,0 +1,48 @@
+159
+
+V 549 55 55οε 558 55 559 trochaici septenarii
+-551 55 5595 560 55 561 iambici septenarii
+ttob iambicus quaternarius
+- 553 55 556 == 569 55 565 iambici octonarii
+- 557 = 566 iambici septenarii
+- 567 55 591 iambici octonarii
+- 599 55 614 iambici septenarii
+- 615 = 690 trochaici octonarii
+· 616 == 691 trochaici septenarii
+- 617 = 699 iambici octonarii
+- 618 et 619 == 693 55 694 trochaici octonarii
+· 695 55 698 trochaici septenarii
+· 699 55 649 iambici senarii
+- 643 55 644 -- 654 55 655 trochaici octonarii
+· 645 == 656 trochaici septenarii
+· 646 = 657 iambici octonarii
+· 647 55 651 iambici quaternarii
+648 55 650 = 659 55 661 iambici octonarii
+- 658 iambicus senarius .
+· 659 55 653 = 669 55 663 iambici octonarii
+.' 664 55 667 iambici octonarii
+- 668 55 709 iambici senarii
+- 703 55 796 trochaici septenarii
+· 797 55 737 iambici octonarii
+- 738 iambicus senarius
+· 739 55 749 = 744 55 746 55 748 trochaici octonarii
+- 747 trochaicus quaternarius catalecticus
+· 743 = 749 trochaici septenarii
+- 750 iambicus octonarius
+- 751 55 759 trochaici septenarii
+· 753 55 754 iambici septenarii
+· 755 55 770 trochaici septenarii
+- 771 55 787 iambici octonarii
+· 788 55 816 trochaici septenarii
+· 817 55 949 iambici senarii
+· 943 55 970 trochaici septenarii
+· 971 551001 iambici senarii
+· 1009 55 1094 iambici septenarii
+· 1095 55 1030 trochaici septenarii
+· 1031 55 1049 iambici octonarii
+· 1050 55 1094 trochaici septenarii.
+
+——u-——-—--
+
+ 
+
